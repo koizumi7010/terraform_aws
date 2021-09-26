@@ -15,7 +15,7 @@ aws_az2               = "ap-southeast-1c"
 # EC2情報(AMI、インスタンスタイプ)
 # ※使用するAMI、インスタンスタイプ
 # ※リージョンにより使用可能なAMIが異なるため、AWSマネジメントコンソール等で確認すること
-aws_ec2_ami           = "ami-0e5182fad1edfaa68"
+aws_ec2_ami           = "ami-##########"
 aws_ec2_instance_type = "t2.micro"
 
 # RDSログイン情報(ユーザー名、パスワード)
