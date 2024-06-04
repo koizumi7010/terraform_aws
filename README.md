@@ -1,2 +1,1 @@
-# TerraformによるAWS環境の自動展開
-TerraformによるAWSリソースの展開自動化を行いました
+# Provisioning AWS Resource by Terraform　
